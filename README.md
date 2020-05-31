@@ -1,8 +1,6 @@
-Template: clinical question
+Irritable -bowel treatment with antidepressants
 ============================================
 A living systematic review
-
-Short url: http://
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective if the antidepressant class is matched ot the IBS subtype. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 46%. This review updates previously published meta-analysis(es).(citation[s] below)
 
