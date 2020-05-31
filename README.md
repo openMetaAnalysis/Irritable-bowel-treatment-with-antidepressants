@@ -1,4 +1,4 @@
-Irritable -bowel treatment with antidepressants
+Irritable bowel treatment with antidepressants
 ============================================
 A living systematic review
 
