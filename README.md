@@ -38,7 +38,6 @@ References:
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
 
-
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 1. Abdul-Baki H, El Hajj II, Elzahabi L, Azar C, Aoun E, Skoury A, Chaar H, Sharara AI. A randomized controlled trial of imipramine in patients with irritable bowel  syndrome. World J Gastroenterol. 2009 Aug 7;15(29):3636–3642. PMCID: [PMC2721237](http://pubmed.gov/PMC2721237)
@@ -60,7 +59,7 @@ References:
 
 
 #### Trial(s) undergoing review
-None
+1. Ford AC, Wright-Hughes A, Alderson SL, Ow PL, Ridd MJ, Foy R, Bianco G, Bishop FL, Chaddock M, Cook H, Cooper D, Fernandez C, Guthrie EA, Hartley S, Herbert A, Howdon D, Muir DP, Nath T, Newman S, Smith T, Taylor CA, Teasdale EJ, Thornton R, Farrin AJ, Everitt HA; ATLANTIS trialists. Amitriptyline at Low-Dose and Titrated for Irritable Bowel Syndrome as Second-Line Treatment in primary care (ATLANTIS): a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet. 2023 Nov 11;402(10414):1773-1785. doi: 10.1016/S0140-6736(23)01523-4. Epub 2023 Oct 16. PMID: [37858323](http://pubmed.gov/37858323).
 
 #### Trial(s) excluded - selected list of important trial(s)
 
